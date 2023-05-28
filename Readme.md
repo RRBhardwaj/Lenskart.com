@@ -2,7 +2,7 @@
 <h3>Optickart is a leading e-commerce company that maintains an online optical store packed with both classic and trendy eyeglasses, lenses and more at affordable prices. These glasses can be easily ordered online by the customers, who will get them delivered with many discounts that come and go.This is a collaborative Project from Masai School in the Construct Week With the 5 team members within 5 Days.
 </h3>
 
-# Deployed URL 👉 [Click here](https://fascinating-cajeta-e3c16d.netlify.app/)
+# Deployed URL 👉 [Click here](https://fascinating-cajeta-e3c16d.netlify.app/) 
 
 ## Our Team Members
 - Jagriti Kumari (My Linkedin profile :-https://www.linkedin.com/in/jkumari25/)
